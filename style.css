@@ -118,8 +118,8 @@ header .fa-bars{
 .home{
     display: flex;
     align-items: center;
-    min-height: 500px;
-    background: url(Gambar/jujutsu-kaisen-culling-game-goal-rules-timeline-explained-2.jpg) no-repeat;
+    min-height: 600px;
+    background: url(Gambar/geto.PNG);
     background-size: cover;
     background-position: center;
 }
