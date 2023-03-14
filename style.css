@@ -118,7 +118,7 @@ header .fa-bars{
 .home{
     display: flex;
     align-items: center;
-    min-height: 600px;
+    min-height: 500px;
     background: url(Gambar/geto.PNG);
     background-size: cover;
     background-position: center;
